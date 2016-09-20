@@ -24,6 +24,10 @@
 
 /* #Page Styles
 ================================================== */
+nav {
+    display: block;
+}
+
 header,
 section,
 aside,
