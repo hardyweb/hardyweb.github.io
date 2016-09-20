@@ -31,13 +31,13 @@ nav {
 header,
 section,
 aside,
-footer {
+footer, nav {
   margin: 0 1.5% 24px 1.5%;
 }
 section {
   float: left;
   margin: 0 1.5%;
-  width: 75%;
+  width: 80%;
 }
 aside {
   float: right;
