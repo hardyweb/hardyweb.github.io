@@ -74,11 +74,8 @@ aside {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) {
-	.main aside {
-        -webkit-order:2;
-        order:2;
-        float:initial;
-        width:initial;
+.main aside.float {
+        display:none;
     }
 
 }
