@@ -12,13 +12,11 @@ Jika anda perhatikan, selalunya, terdapat laman web akan ditulis dengan best vie
 
 Mengikut sejarah, CSS Reset dimulakan oleh legenda web iaitu Tante Celik dan kemudiannya diikuti oleh Eric Meyer juga seorang web guru. Sejarah panjang dan contoh-contoh versi CSS Reset boleh dilihat di laman ini [http://sixrevisions.com/css/the-history-of-css-resets/](http://sixrevisions.com/css/the-history-of-css-resets/) 
 
-CSS Normalize 
+##CSS Normalize 
 
 CSS Normalize ini alternatif kepada CSS Reset, ia banyak memelihara element dari dipadam terus, tidak seperti dalam CSS reset, ia membaiki bug-bug umum yang dijumpai di pelayar-pelayar. 
 
 [http://necolas.github.io/normalize.css/](http://necolas.github.io/normalize.css/)
-
-
 
 
 
