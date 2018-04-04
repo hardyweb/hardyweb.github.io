@@ -58,9 +58,24 @@
 	    Created Migration: 2018_04_03_012456_create_namatables_table
 	    
 	  </section>    
+	    
+	    <section>
 	   $ php artisan migrate
 		Migrating: 2018_04_03_012456_create_namatables_table
 		Migrated:  2018_04_03_012456_create_namatables_table
+	    </section>
+	    
+	    <section>
+		    npm install font-awesome (currently installing ^4.7.0)
+
+I'm building a Laravel 5.4 app, so to my resources/assets/sass/app.scss file I added:
+
+// Font Awesome
+$fa-font-path: "../fonts";
+@import "node_modules/font-awesome/scss/font-awesome";
+To my ./webpack.mix.js, I added
+mix.copy('node_modules/font-awesome/fonts', 'public/fonts');
+	    </section>
     </main>
    
     <footer>
